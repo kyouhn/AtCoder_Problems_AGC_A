@@ -1,0 +1,2 @@
+# AtCoder_Problems_AGC_A
+AtCoder ProblemsのAGCのA問題のみ入れる
